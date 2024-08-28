@@ -1,2 +1,2 @@
 - Full stack developer
-- Node.js, NestJS, Angular, Flutter, Firebase, AWS
+- Javascript, Typescript, Angular, Node.js, NestJS, Flutter, Firebase, AWS
